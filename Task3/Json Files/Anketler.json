@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Vusal",
+    "Surname": "Ceferli",
+    "Email": "p.b002vusal@gmail.com",
+    "Phone": "0708370437",
+    "Birthday": "11 July 2004",
+    "Id": "8c705845-d8fc-41f1-beec-157f5caacc9a"
+  },
+  {
+    "Name": "Abdin",
+    "Surname": "Cabbarli",
+    "Email": "abdin2004@gmail.com",
+    "Phone": "0555530510",
+    "Birthday": "19 August 2004",
+    "Id": "1b0af9d2-6ff8-4c7b-a202-4e8224b8b862"
+  },
+  {
+    "Name": "Eli",
+    "Surname": "Eliyev",
+    "Email": "eli_eliyev@gmail.com",
+    "Phone": "0994504568",
+    "Birthday": "15 December 1998",
+    "Id": "710d9d96-a4f6-4fc0-a2ff-65e32a6b7b39"
+  },
+  {
+    "Name": "Mehemmed",
+    "Surname": "Rustemov",
+    "Email": "rustemov_12@gmail.com",
+    "Phone": "0503504540",
+    "Birthday": "28 February 2005",
+    "Id": "afd0043c-37cf-4026-8fe2-c90336ecc8b1"
+  }
+]
